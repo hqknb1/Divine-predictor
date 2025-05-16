@@ -1,0 +1,9 @@
+# requirements.txt
+# 本文件列出了极简RAG算命问答系统的所有依赖包
+# 安装方法: pip install -r requirements.txt
+torch
+transformers
+faiss-cpu
+pandas
+tqdm
+tkinter # 若未安装请手动安装或用系统自带 
